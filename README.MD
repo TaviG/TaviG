@@ -1,5 +1,3 @@
-Junior ABAP Developer Profile
-
 Hello, I'm  a Junior ABAP Developer with a passion for coding and problem-solving. I specialize in working with ECC and S4/HANA On Premise systems, where I create efficient solutions to enhance business processes. Currently, I am pursuing a Master's degree in Computer Vision, which adds an exciting dimension to my technical skills.
 Background and Expertise
 ABAP Development
@@ -21,6 +19,9 @@ Continuous Learning
 As part of my dedication to growth, I am currently pursuing a Master's degree in Computer Vision. This academic pursuit allows me to explore the intersection of artificial intelligence and visual data, broadening my horizons and bringing innovative perspectives to my ABAP development.
 Projects and Achievements
 
+Achievements
+
+Associate ABAP Developer with SapNetweaver 7.5
 
 Goals
 
