@@ -15,6 +15,7 @@ I have a solid foundation in ABAP (Advanced Business Application Programming) de
     DMEE File Structure: Experienced in creating DMEE (Data Medium Exchange Engine) file structures, facilitating smooth electronic data interchange, and payment processing.
 
     Debugging Expertise: Proficient in debugging transactions across various modules including Financial Accounting (FI), Controlling (CO), Sales and Distribution (SD), and Materials Management (MM). I can quickly identify and resolve issues to keep systems running smoothly.
+
     Forms Development: Proficient in crafting and customizing business forms within SAP systems using SmartForms and SAP Script technologies. Skilled in designing visually appealing and functional forms tailored to specific business requirements
 <h3>Continuous Learning</h3>
 
