@@ -29,3 +29,8 @@ Associate ABAP Developer with SapNetweaver 7.5
 <h2>Goals</h2>
 
 My short-term goal is to further strengthen my ABAP OO skills and become proficient in S4/HANA development. I am excited to leverage my Computer Vision expertise to explore possibilities for integrating visual data analysis into SAP systems. In the long run, I aspire to be a seasoned SAP developer known for innovative solutions and technical excellence.
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/octavian-catalin-geoarsa-b37271133/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+</p>
